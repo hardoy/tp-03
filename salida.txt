@@ -1,0 +1,68 @@
+Menú de temas         	      Puntaje: 0
+
+1) Química 
+
+2) Tierra Media 
+
+3) Biología 
+
+4) Salir 
+
+Elegir un tema del menú por su número: 3
+¿Cuál es el orden de fases del proceso de mitosis?
+
+a:		Profase, Prometafase, Interfase, Metafase, Anafase.
+b:		Profase, Prometafase, Metafase, Interfase, Anafase.
+c:		Interfase, Profase, Prometafase, Metafase, Anafase.
+Ingrese su respuesta: c
+Respuesta correcta 
+
+¿Qué aminoácido está definido por el codón 'GGC'?
+
+Ingrese su respuesta: glicina
+Respuesta correcta 
+
+¿En qué mitocondria se lleva a cabo el ciclo de Krebs en los organismos eucariotas?
+
+Ingrese su respuesta: mitocondria
+Respuesta correcta 
+
+¿Desea continuar el juego? (s/n): s
+Menú de temas         	      Puntaje: 3
+
+1) Química 
+
+2) Tierra Media 
+
+3) Biología 
+
+4) Salir 
+
+Elegir un tema del menú por su número: 1
+¿Cuál es el número Z del Cloro?
+
+Ingrese su respuesta: 17
+Respuesta correcta 
+
+¿Cuál es la atomicidad del Nitrato de Plata?
+
+Ingrese su respuesta: 1234   
+Respuesta incorrecta 
+
+¿Qué elemento tiene Z = 27?
+
+Ingrese su respuesta: hierro
+Respuesta correcta 
+
+¿Desea continuar el juego? (s/n): s
+Menú de temas         	      Puntaje: 5
+
+1) Química 
+
+2) Tierra Media 
+
+3) Biología 
+
+4) Salir 
+
+Elegir un tema del menú por su número: 4
